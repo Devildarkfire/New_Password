@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pin Code</string>
+    <string name="account">Set a new Password</string>
+    <string name="First_Name">Enter the new password you would to use and try login</string>
+    <string name="Next">Confirm</string>
+    <string name="password">******</string>
+    <string name="Password">******</string>
+    <string name="password_text_view">Password</string>
+    <string name="Password_text_view">Repeat Pasword</string>
+
+</resources>
